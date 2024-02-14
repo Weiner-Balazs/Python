@@ -1,0 +1,9 @@
+Kókuszgolyó 45 82 12 98 223 57 87
+Gerbaud 4 78 0 56 44 68 221  
+Gesztenyepüré 13 25 25 37 9 68 112
+Somlói_galuska 74 33 54 0 20 36
+Sportszelet 66 17 95 81 153 200
+Tiramisu 32 99 145 136 185 98 67
+Csokitorta 78 22 106 40 0 32 57
+Málnás_sajttorta 57 22 87 65 235 7 98
+Túrógombóc_torta 67 32 63 14 55 164 22
