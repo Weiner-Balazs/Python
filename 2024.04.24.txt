@@ -1,0 +1,4 @@
+Budapest 2 3 4 2 7 3 6
+Szolnok 6 3 8 3 2 1 0
+Debrecen 2 5 1 6 3 3 3 
+Pécs 2 6 4 6 4 3 2   
